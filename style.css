@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: solid red 2px;
+}
+
+.row1{
+    display: flex;
+    flex: 1;
+    max-width: max-content;
+    justify-content: space-around;
+}
+
+.row2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    max-height: 400px;
+}
